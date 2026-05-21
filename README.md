@@ -8,7 +8,7 @@ solemne II pensamiento computacional p5.js
 Nombre: Sistema Geométrico Interactivo  
 Autora: Magdalena Paz Frías Aldama
 
----
+
 
 ## Descripción objetiva
 
@@ -20,7 +20,7 @@ El sistema utiliza inputs continuos como el movimiento del mouse y la presión d
 
 Los outputs generados son cambios en tamaño, color y distribución visual de las formas geométricas.
 
----
+
 
 ## Descripción conceptual
 
@@ -40,7 +40,7 @@ El trabajo dialoga con el Diseño Generativo y principios del Op Art, ya que uti
 - Interactividad
 - Transformación visual en tiempo real
 
----
+
 
 ## Input / Output y sistema
 
@@ -68,7 +68,7 @@ El movimiento del mouse modifica el tamaño de los elementos visuales.
 
 Cada vez que se presiona una tecla, cambia la paleta de color del sistema.
 
----
+
 
 ## Diagrama de flujo
 
@@ -78,15 +78,6 @@ Luego procesa posición, distancia y reglas visuales.
 
 Finalmente genera una respuesta gráfica dinámica en tiempo real.
 
----
 
-## Imágenes
-
-Aquí se puede agregar la imagen del diagrama de flujo:
-
-![Diagrama de flujo](diagrama-flujo.png)
-
-
-##link editable
 https://editor.p5js.org/magdalenaa/sketches/4_ovgqCo4
 
